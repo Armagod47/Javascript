@@ -1,0 +1,2 @@
+npm init -y
+npm install webpack webpack-cli webpack-server html-webpack-plugin faker@5.2.0 webpack-dev-server --save-dev
