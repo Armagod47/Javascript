@@ -15,3 +15,13 @@ This operator will return true on successful deletion from an object & returns f
 In above eg. age property will be added to global object.So on successful deletion it will return true.
 
 -----------------------------------
+
+**Replace**
+let strings = 'Change';
+strings = strings.replace('C', 'R');
+console.log(strings); 
+
+Replace method will create copy of the strings and replaces C with R
+And return the copied string.
+
+-----------------------------------
